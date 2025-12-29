@@ -8,6 +8,7 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 
 # Note
 - This patch works exclusively with the latest version of the game at the time of writing this README. If the game received a new update, the depot you want is: `download_depot 1335530 1335531 3838329713333394627`
+- The "Special" button is mapped on L Trigger.
 
 # Known issues
 
@@ -15,6 +16,7 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 - After finishing a run, the video prior the main menu will stop working until app is rebooted.
 - On new runs, sometimes the backpack on Alisa won't disappear after the prologue.
 - The grab animation during the final boss is a bit glitchy (only visual).
+- There are some minor issues with lighting across the game.
 
 # How to Install
 
