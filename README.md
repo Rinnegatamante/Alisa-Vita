@@ -19,9 +19,9 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 # How to Install
 
 - Buy [Alisa: Director's Cut from Steam](https://store.steampowered.com/app/1335530/Alisa/) and install it.
-- Download the datafiles.zip and alisa.vpk from the Release page.
-- Install alisa.vpk on your PSVita.
-- Extract on your PC datafiles.zip in a folder of your preference.
+- Download the `datafiles.zip` and `alisa.vpk` from the Release page.
+- Install `alisa.vpk` on your PSVita.
+- Extract on your PC `datafiles.zip` in a folder of your preference.
 - From the Steam game datafiles, copy all files (excluding directories) from `Alisa_Data` folder except for `app.info` and `output_log.txt` (it should total at 289 files) to the `alisa` folder in the datafiles folder.
 - Run `patch_files.bat`.
 - Extract all the files, except for `archive.psarc`, inside the `alisa` folder inside the `data.zip` generated file into `ux0:app/ALSA50001/Media`.
