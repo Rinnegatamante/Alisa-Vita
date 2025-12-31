@@ -12,11 +12,24 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 
 # Known issues
 
-- Enemy AI is less aggressive and can sometimes get confused. This is the result of an heavy optimization in the pathfinding logic (planned to improve in future updates).
-- After finishing a run, the video prior the main menu will stop working until app is rebooted.
 - On new runs, sometimes the backpack on Alisa won't disappear after the prologue.
 - The grab animation during the final boss is a bit glitchy (only visual).
 - There are some minor issues with lighting across the game.
+
+# Changelog
+## v.1.1
+- Fixed a bug in pathfinding code that was causing AI to be less aggressive than expected.
+- Fixed a bug causing the shop menu to be slightly off scaled.
+- Restored "Render" feature: now setting it to 2x will correctly make the game look sharper due to higher internal resolution.
+- Fixed a bug causing a few meshes to be rendered full purple.
+- Fixed the V-Sync button in the Settings menu to be rendered with bilinear filtering erroneously.
+- Fixed the unselected V-Sync button to not render in the Settings menu inside the Pause menu.
+- Fixed a bug causing the video prior the main menu to not show anymore after clearing a run until the game was rebooted.
+- Fixed the main menu fade effect to show a widescreen stretched image instead of a properly 4:3 centered one.
+- Added a new option in the Settings menu to enable a post-processing CRT filter in the game.
+
+## v.1.0
+- Initial release.
 
 # How to Install
 
