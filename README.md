@@ -17,6 +17,13 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 - There are some minor issues with lighting across the game.
 
 # Changelog
+## v.1.2
+- Added a new option (Easy AI) to have less aggressive enemies through the game.
+- Made so that the CRT filter is disabled by default.
+- Reduced the vignette effect of the CRT filter so that it makes texts more readable.
+- Restored custom languages support: now it's possible to create custom translations of the game.
+- Reworked mirror reflections so that now are the same as vanilla game rather than an approximation of the same effect.
+
 ## v.1.1
 - Fixed a bug in pathfinding code that was causing AI to be less aggressive than expected.
 - Fixed a bug causing the shop menu to be slightly off scaled.
@@ -47,4 +54,4 @@ Alisa is a indie survival horror game heavily inspired by the classics of this g
 
 - **PatnosD**: For fixing the vast majority of animations in the game and for giving additional help to fix some minor issues.
 - **hatoving**: For helping with the initial bootstraping of the project and for the Livearea assets.
-- **withLogic**: For additional help testing the port.
+- **withLogic**: For additional help testing the port and for some custom buttons sprites.
